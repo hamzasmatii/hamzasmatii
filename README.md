@@ -1,23 +1,19 @@
-
 <div align="center">
 
-# 👋 Hi, I'm **Hamza Smati**
+# 👋 Hi, I'm Hamza Smati
 
 ### Software Systems Architect • Full Stack Engineer • AI Solutions Architect
 
 Designing scalable software, cloud-native platforms, enterprise applications, and AI-powered digital products.
 
 <p align="center">
-<a href="https://github.com/hamzasmatii">
-<img src="https://img.shields.io/github/followers/hamzasmatii?label=Followers&style=for-the-badge"/>
-</a>
+  <a href="https://github.com/hamzasmatii">
+    <img src="https://img.shields.io/github/followers/hamzasmatii?style=for-the-badge&logo=github&label=Followers" />
+  </a>
 
-<a href="https://github.com/hamzasmatii">
-<img src="https://img.shields.io/github/stars/hamzasmatii?affiliations=OWNER&style=for-the-badge"/>
-</a>
+  <img src="https://komarev.com/ghpvc/?username=hamzasmatii&style=for-the-badge" />
 
-<img src="https://komarev.com/ghpvc/?username=hamzasmatii&style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-blue?style=for-the-badge" />
 </p>
 
 </div>
@@ -26,130 +22,75 @@ Designing scalable software, cloud-native platforms, enterprise applications, an
 
 # 🚀 About Me
 
-I'm a **Software Systems Architect** passionate about designing modern, scalable, and high-performance digital ecosystems.
+I'm a **Software Systems Architect** passionate about designing scalable, secure, and high-performance software.
 
-I specialize in building enterprise-grade software that combines robust backend architectures, intuitive user experiences, cloud technologies, and AI-powered automation.
+I specialize in enterprise applications, cloud-native architectures, SaaS platforms, AI integration, and mobile development.
 
-### What I Focus On
+### 🎯 Current Focus
 
-- 🏗️ Software Architecture
-- ☁️ Cloud-Native Applications
-- 🤖 Artificial Intelligence Integration
-- 📱 Cross-Platform Mobile Development
-- 🌐 Enterprise SaaS Platforms
-- ⚡ High-Performance Backend Systems
-- 🔒 Secure & Scalable Architectures
-- 🚀 Business Process Automation
+- 🏗 Software Architecture
+- ☁ Cloud Native Applications
+- 🤖 Artificial Intelligence
+- 📱 Flutter Applications
+- 🌐 Enterprise SaaS
+- ⚡ High Performance APIs
+- 🔐 Security & Scalability
+- 🚀 Business Automation
 
 ---
 
 # 💼 Expertise
 
-### Enterprise Development
+### Backend
 
-- Enterprise Applications
-- SaaS Platforms
-- CRM & ERP Systems
-- Business Automation
-
-### Backend Engineering
-
+- Java
 - Spring Boot
+- Spring Security
 - REST APIs
-- WebSocket
-- JWT Authentication
+- JWT
 - OAuth2
-- Distributed Systems
+- WebSocket
 - Microservices
 
-### Frontend Development
+### Frontend
 
 - Angular
 - TypeScript
 - Next.js
-- Responsive UI
+- HTML5
+- CSS3
 
-### Mobile Development
+### Mobile
 
 - Flutter
+- Dart
 - Android
-- Cross-platform Applications
 
-### AI & Automation
+### Databases
 
-- AI Assistants
-- Intelligent Workflows
-- Automation Systems
+- MongoDB
+- PostgreSQL
+- MySQL
+- Redis
+- SQLite
 
----
+### Cloud & DevOps
 
-# 🛠️ Tech Stack
-
-## Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,dart,typescript,javascript,kotlin"/>
-
-</p>
-
----
-
-## Backend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs"/>
-
-</p>
-
-**Technologies**
-
-- Spring Boot
-- Spring Security
-- JWT
-- REST API
-- WebSocket
-- OAuth2
-- Microservices
+- Docker
+- Linux
+- AWS
+- Nginx
+- Git
+- GitHub Actions
+- CI/CD
 
 ---
 
-## Frontend
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=angular,nextjs,html,css"/>
-
-</p>
-
----
-
-## Mobile
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio"/>
-
-</p>
-
----
-
-## Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite"/>
-
-</p>
-
----
-
-## Cloud & DevOps
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github,githubactions"/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,angular,typescript,nextjs,flutter,dart,mongodb,postgres,mysql,redis,docker,aws,linux,git,github,githubactions,vscode" />
 
 </p>
 
@@ -157,49 +98,43 @@ I specialize in building enterprise-grade software that combines robust backend 
 
 # 🌟 Featured Project
 
-# 🏠 MonArtizan
+## 🏠 MonArtizan
 
-An enterprise digital platform connecting professional artisans with clients through intelligent services.
+An enterprise platform connecting professional artisans and clients.
 
-### Highlights
+### Main Features
 
 - 📍 Live GPS Tracking
 - 💬 Real-Time Messaging
 - 🤖 AI Assistant
+- 📱 Flutter Mobile Apps
+- 🌐 Angular Dashboard
+- ⚙ Spring Boot Backend
 - 📄 Quotes & Invoices
 - 💳 Subscription Management
 - 📅 Smart Scheduling
 - 🔔 Push Notifications
-- 📱 Flutter Mobile Apps
-- 🌐 Angular Dashboard
-- ⚙️ Spring Boot Backend
 - 🚀 Business Automation
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hamzasmatii&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hamzasmatii&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzasmatii&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzasmatii&theme=github-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzasmatii&layout=compact&theme=github_dark&hide_border=true" />
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hamzasmatii&theme=algolia&no-frame=true&row=2&column=4"/>
+<img src="https://streak-stats.demolab.com?user=hamzasmatii&theme=github-dark&hide_border=true" />
 
 </p>
 
@@ -209,7 +144,17 @@ An enterprise digital platform connecting professional artisans with clients thr
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzasmatii&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzasmatii&theme=github-compact" />
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hamzasmatii&theme=algolia&no-frame=true&row=2&column=4" />
 
 </p>
 
@@ -220,27 +165,27 @@ An enterprise digital platform connecting professional artisans with clients thr
 - Clean Architecture
 - SOLID Principles
 - Domain-Driven Design (DDD)
-- API-First Development
+- API First Design
 - Secure by Design
-- Cloud-Native Architecture
-- Performance Optimization
+- High Performance Systems
+- Cloud Native Development
 - Scalability First
-- Continuous Integration & Deployment
-- Maintainable & Testable Code
+- Continuous Integration
+- Continuous Deployment
 
 ---
 
-# 🌍 Current Projects
+# 🌍 Currently Building
 
-- 🏠 MonArtizan — AI-powered marketplace for artisans
+- 🏠 MonArtizan Platform
 - 🤖 AI Business Assistants
-- 📱 Flutter Enterprise Applications
-- ⚙️ Intelligent Automation Systems
-- ☁️ Cloud-Native SaaS Platforms
+- 📱 Enterprise Flutter Applications
+- ☁ Cloud-Native SaaS Platforms
+- ⚙ Intelligent Automation Systems
 
 ---
 
-# 🤝 Let's Connect
+# 📫 Connect With Me
 
 📧 **Email**
 
@@ -256,7 +201,6 @@ https://www.linkedin.com/in/smati-hamza-b49175294/
 
 ### 💡 *"Building scalable software that transforms ideas into powerful digital products."*
 
-⭐ If you like my work, don't forget to follow my GitHub profile!
+⭐ Thanks for visiting my profile!
 
 </div>
-
