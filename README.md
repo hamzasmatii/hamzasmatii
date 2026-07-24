@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 # 👋 Hi, I'm **Hamza Smati**
@@ -259,4 +259,4 @@ https://www.linkedin.com/in/smati-hamza-b49175294/
 ⭐ If you like my work, don't forget to follow my GitHub profile!
 
 </div>
-```
+
